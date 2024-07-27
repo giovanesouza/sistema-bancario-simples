@@ -1,0 +1,16 @@
+{
+  "name": "sistema-bancario-simples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:watch": "node --watch ./src/index.js",
+    "start:dev": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
